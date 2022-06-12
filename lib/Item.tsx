@@ -12,7 +12,7 @@ const itemStyle: CSSProperties = {
   position: 'relative',
   maxWidth: '100%',
   width: '100%',
-  height: 2,
+  height: 5,
 };
 
 const Item: React.FunctionComponent<PasswordStrengthBarItemProps> = ({
